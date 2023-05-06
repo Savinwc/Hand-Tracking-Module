@@ -3,8 +3,8 @@
 Hand Tracking Module using Python, OpenCv, and MediaPipe
 
 # Features
-Palm detection - MediaPipe works on the complete input image and provides a cropped image of the hand.
-Hand landmarks identification - MediaPipe finds the 21 hand landmarks on the cropped image of the hand.
+Palm detection - MediaPipe works on the complete input image and provides a cropped image of the hand.<br>
+Hand landmarks identification - MediaPipe finds the 21 hand landmarks on the cropped image of the hand.<br>
 
 # Instructions on running project locally:
 Clone the project.</br>
